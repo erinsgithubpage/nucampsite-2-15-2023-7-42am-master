@@ -8,6 +8,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import CampsiteDetailPage from './pages/CampsiteDetailPage';
 import AboutPage from './pages/AboutPage';
+//import SocialMediaAndResume from '..components/SocialMediaAndResume';
 
 function App() {
   return (
