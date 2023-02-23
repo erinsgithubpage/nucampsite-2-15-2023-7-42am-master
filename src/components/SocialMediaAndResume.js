@@ -23,7 +23,7 @@ const SocialMediaAndResume = () => {
                 </div>
                 <div class="cv">
                     <span class="about-button">
-                        <a class="main-btn" href="https://erinh30.sg-host.com/WordPress-2.pdf" target="blank" download>Download CV - now</a>
+                        <a class="main-btn" href="https://erinh30.sg-host.com/front-end.pdf" target="blank" download>Download CV</a>
                     </span>
                 </div>
             </Row>

@@ -20,8 +20,6 @@ const ShortBio = () => {
                  <p class="bio">I am currently a student at NuCamp Coding Boot Camp studying Full Stack Web and Mobile Development. The course curriculum includes: Bootstrap, JavaScript, React, React Native, Git, and Google Cloud Computing.</p></h5>
             </Row>
             <Row>
-                
-
                 {/*<div class="social-icons">
                     <a href="https://www.facebook.com/profile.php?id=100081191235958" target="blank"><i class="fa fa-facebook"></i></a>
                     <a href="https://twitter.com/erinswebdesign" target="blank"><i class="fa fa-twitter"></i></a>
